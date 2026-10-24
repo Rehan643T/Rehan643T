@@ -32,19 +32,6 @@
 
 <!-- Add links to your actual repositories here -->
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-### 🤝 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
